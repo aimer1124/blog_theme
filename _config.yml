@@ -11,7 +11,7 @@ baidu_analytics: 250337eae17580f597795c682ac5e87b ## Your Baidu Analytics tracki
 show_category_count: true ## If you want to show the count of categories in the sidebar widget please set the value to true.
 shareto: true ## If you want to use the share button please set the value to true.
 busuanzi: true ## If you want to use Busuanzi page views please set the value to true.
-widgets_on_small_screens: true ## Set to true to enable widgets on small screens.
+widgets_on_small_screens: false ## Set to true to enable widgets on small screens.
 
 menu:
   - page: home
@@ -40,6 +40,8 @@ links:
     url: https://github.com/aimer1124
   - title: 简书
     url: https://www.jianshu.com/users/552f687b314b
+  - title: 开发者头条
+    url: http://toutiao.io/subjects/105063
 
 timeline:
   - num: 1
