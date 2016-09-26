@@ -5,3 +5,12 @@
   a(rel='nofollow', target='_blank', href='https://github.com/tufu9441/maupassant-hexo')  Theme
   |  by
   a(rel='nofollow', target='_blank', href='https://github.com/pagecho')  Cho.
+  | Total
+  if theme.busuanzi == true
+    span#busuanzi_container_site_pv
+      span= ' '
+      span(rel='nofollow')#busuanzi_value_site_pv
+      span(rel='nofollow')= ' ' + __(' hits, ')
+    span#busuanzi_container_site_uv
+      span(rel='nofollow')#busuanzi_value_site_uv
+      span(rel='nofollow')= ' ' + __(' vistors.')
