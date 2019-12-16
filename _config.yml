@@ -66,6 +66,9 @@ valine:
   verify:  ## Verification code
   placeholder: Say what? ## comment input placeholder text 
   avatar: 'mm' ## header image https://github.com/xCss/Valine/wiki
+  pageSize: 10 ## Number of comments per page.
+  guest_info: nick ## Attributes of reviewers.
+  
   
 # Theme version
 version: 0.0.1
