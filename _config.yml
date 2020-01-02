@@ -34,15 +34,11 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - tag
   - recent_posts
   # - recent_comments
-  - links
+  # - links
 
 links:
   - title: Github
     url: https://github.com/aimer1124
-  - title: 简书
-    url: https://www.jianshu.com/users/552f687b314b
-  - title: 开发者头条
-    url: http://toutiao.io/subjects/105063
 
 timeline:
   - num: 1
